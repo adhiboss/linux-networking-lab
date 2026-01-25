@@ -24,3 +24,17 @@ This repository contains my hands-on practice and experiments while learning Lin
 
 ## Learning Philosophy
 I learn by experimenting, breaking things, fixing them, and documenting everything step by step.
+## 📘 Learning Roadmap
+
+- Day 1: Networking basics  
+- Day 2: IP, ports, TCP vs UDP  
+- Day 3: Client–server model and HTTP  
+- Day 4: DNS and well-known ports  
+- Day 5: Networking troubleshooting  
+- Day 6: Local client–server using netcat  
+
+---
+
+## 🎯 Goal
+
+To build strong foundations in Linux networking and client–server communication for a future role in systems or backend engineering.

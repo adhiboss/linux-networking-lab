@@ -1,44 +1,59 @@
 # Linux Networking Lab 🌐
 
-This repository contains my hands-on practice and experiments while learning Linux networking and system communication.
+![Linux](https://img.shields.io/badge/Linux-Labs-green?style=for-the-badge&logo=linux)
+![Networking](https://img.shields.io/badge/Networking-Hands--On-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Active-blue?style=for-the-badge&logo=github)
 
-## Goals
-- Understand how networking works at a systems level  
-- Practice Linux networking commands  
-- Learn client–server communication  
-- Explore HTTP, DNS, and ports  
-- Build small networking tools  
+This repository contains my **hands-on networking labs and experiments** while learning Linux networking, protocols, and system-level communication.
 
-## Topics Covered
-- IP addresses and network interfaces  
-- Ports and protocols (TCP/UDP)  
-- Basic connectivity testing (ping)  
-- Routing tables  
-- Open ports and services  
-- HTTP requests using curl  
-
-## Tools Used
-- Linux (WSL)  
-- Bash  
-- Git & GitHub  
-
-## Learning Philosophy
-I learn by experimenting, breaking things, fixing them, and documenting everything step by step.
-## 📘 Learning Roadmap
-
-- Day 1: Networking basics  
-- Day 2: IP, ports, TCP vs UDP  
-- Day 3: Client–server model and HTTP  
-- Day 4: DNS and well-known ports  
-- Day 5: Networking troubleshooting  
-- Day 6: Local client–server using netcat  
+The goal is to build real understanding by practicing commands, debugging issues, and implementing small networking experiments.
 
 ---
 
-## 🎯 Goal
+## 🎯 Goals
+- Understand networking at a systems level  
+- Practice Linux networking commands  
+- Learn TCP/UDP client-server communication  
+- Explore HTTP, DNS, sockets, and ports  
+- Build practical labs for troubleshooting and server fundamentals  
 
-To build strong foundations in Linux networking and client–server communication for a future role in systems or backend engineering.
-## Current Progress
-- Day 1–2: Networking basics
-- Day 3–10: HTTP, client–server, curl
-- Day 11: DNS internals and name resolution
+---
+
+## 🛠️ Topics Covered
+- IP addressing and network interfaces  
+- Ports and protocols (TCP/UDP)  
+- Client-server model  
+- HTTP internals (headers, lifecycle, POST basics)  
+- DNS basics and resolution  
+- TCP states and troubleshooting  
+- Port scanning and service testing  
+- Firewalls and connectivity debugging  
+
+---
+
+## 🔧 Tools Used
+- Linux (WSL)  
+- Bash  
+- Netcat (nc)  
+- curl / wget  
+- dig / nslookup  
+- ss / netstat  
+- Git & GitHub  
+
+---
+
+## 🧠 Learning Philosophy
+I learn by:
+- experimenting  
+- breaking things  
+- debugging errors  
+- documenting results step-by-step  
+
+This repository is not theory-only. It is built from real terminal practice.
+
+---
+
+
+
+```bash
+labs/
